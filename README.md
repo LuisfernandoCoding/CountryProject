@@ -1,4 +1,4 @@
-# CountryProjectGitHub?  
+# CountryProjec
 🌍 Internet Statistics Analytics System  
 📋 Project Description  
 A comprehensive system for statistical analysis of internet users by country, implemented as a desktop application and a Telegram bot with multithreaded processing. The application allows for the collection, filtering, visualization, and analysis of internet penetration data across different countries and regions.
